@@ -6,3 +6,7 @@
  '''bash
  conda activate cchatbot
  '''
+ '''bash
+ pip install -r requirements.txt
+ '''
+ 
